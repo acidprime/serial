@@ -1,13 +1,13 @@
 Tserial
 v7
 r0
-t347523313.433045
+t347523526.182683
 cCheck dependencies
 cCompileC build/serial.build/Release/serial.build/Objects-normal/x86_64/main.o /Users/acid/Dropbox/code/serial/main.c normal x86_64 c com.apple.compilers.gcc.4_2
 cLd /Users/acid/Dropbox/code/serial/build/serial.build/Release/serial.build/Objects-normal/x86_64/serial normal x86_64
 cCompileC build/serial.build/Release/serial.build/Objects-normal/i386/main.o /Users/acid/Dropbox/code/serial/main.c normal i386 c com.apple.compilers.gcc.4_2
-cCompileC build/serial.build/Release/serial.build/Objects-normal/ppc/main.o /Users/acid/Dropbox/code/serial/main.c normal ppc c com.apple.compilers.gcc.4_2
 cLd /Users/acid/Dropbox/code/serial/build/serial.build/Release/serial.build/Objects-normal/i386/serial normal i386
+cCompileC build/serial.build/Release/serial.build/Objects-normal/ppc/main.o /Users/acid/Dropbox/code/serial/main.c normal ppc c com.apple.compilers.gcc.4_2
 cLd /Users/acid/Dropbox/code/serial/build/serial.build/Release/serial.build/Objects-normal/ppc/serial normal ppc
 cCreateUniversalBinary /Users/acid/Dropbox/code/serial/build/Release/serial normal "x86_64 i386 ppc"
 cGenerateDSYMFile /Users/acid/Dropbox/code/serial/build/Release/serial.dSYM /Users/acid/Dropbox/code/serial/build/Release/serial
@@ -93,7 +93,7 @@ i<IOKit/IOKitLib.h>
 
 CCheck dependencies
 r0
-lSLF07#2@18"Check dependencies347523312#347523312#0(0"0(0#1#0"4551173440#0"0#
+lSLF07#2@18"Check dependencies347523526#347523526#0(0"0(0#1#0"4541388096#0"0#
 
 CCompileC build/serial.build/Release/serial.build/Objects-normal/i386/main.o /Users/acid/Dropbox/code/serial/main.c normal i386 c com.apple.compilers.gcc.4_2
 s347523312.695531

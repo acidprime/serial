@@ -1,8 +1,8 @@
+000000004f79c92f00000000000107e1 c7bf5da40414987aa0f598e968b024a9 ffffffffffffffffffffffffffffffff 5548 /Users/acid/Dropbox/code/serial/build/serial.build/Release/serial.build/Objects-normal/ppc/main.o
+000000004f79c92f00000000000107e1 4260f86dd0233d5ee266ce750355b30c ffffffffffffffffffffffffffffffff 5368 /Users/acid/Dropbox/code/serial/build/serial.build/Release/serial.build/Objects-normal/i386/main.o
+000000004f79c92f00000000000107e1 0796425f4a4c216c8b0e546a60d2c8b1 ffffffffffffffffffffffffffffffff 5988 /Users/acid/Dropbox/code/serial/build/serial.build/Release/serial.build/Objects-normal/x86_64/main.o
 00000000000000000000000000000000 02cae4fa841937a4986e263bc3bf3dfd ffffffffffffffffffffffffffffffff 102 /Users/acid/Dropbox/code/serial/build/Release/serial.dSYM
 367dc918d4f04e93efb04a6566407574 55321fb48e51a8a5a0bc2d38a571aa5b ffffffffffffffffffffffffffffffff 37712 /Users/acid/Dropbox/code/serial/build/Release/serial
 c7bf5da402b6b3fba0f598e968d2102e f1b8883bf1970d5c21230ee29bd455da ffffffffffffffffffffffffffffffff 9040 /Users/acid/Dropbox/code/serial/build/serial.build/Release/serial.build/Objects-normal/ppc/serial
 4260f86dd68116dfe266ce750337878b e62dae95beca2cbcca6ef36b96f2b27c ffffffffffffffffffffffffffffffff 9468 /Users/acid/Dropbox/code/serial/build/serial.build/Release/serial.build/Objects-normal/i386/serial
 0796425f4cee0aed8b0e546a60b0fc36 a3a108200374c0bacd60b51a6033f941 ffffffffffffffffffffffffffffffff 9552 /Users/acid/Dropbox/code/serial/build/serial.build/Release/serial.build/Objects-normal/x86_64/serial
-000000004f79c92f00000000000107e1 c7bf5da40414987aa0f598e968b024a9 ffffffffffffffffffffffffffffffff 5548 /Users/acid/Dropbox/code/serial/build/serial.build/Release/serial.build/Objects-normal/ppc/main.o
-000000004f79c92f00000000000107e1 4260f86dd0233d5ee266ce750355b30c ffffffffffffffffffffffffffffffff 5368 /Users/acid/Dropbox/code/serial/build/serial.build/Release/serial.build/Objects-normal/i386/main.o
-000000004f79c92f00000000000107e1 0796425f4a4c216c8b0e546a60d2c8b1 ffffffffffffffffffffffffffffffff 5988 /Users/acid/Dropbox/code/serial/build/serial.build/Release/serial.build/Objects-normal/x86_64/main.o

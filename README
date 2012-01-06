@@ -1,1 +1,26 @@
 A little example of how to get IOPlatformSerialNumber with IOKit
+
+Why, I don't know but technically its the fasted methodology I have seen.
+
+time ./serial 
+CXXXXXXXXXXX
+
+real	0m0.024s
+user	0m0.004s
+sys	0m0.007s
+
+time /usr/sbin/system_profiler SPHardwareDataType | awk '/Serial Number/ {print $NF}'
+CXXXXXXXXXXX
+real	0m0.446s
+user	0m0.141s
+sys	0m0.166s
+
+I am learning how to use IOKit at the moment so this guy has some cousins
+
+https://github.com/acidprime/platformExpert
+
+https://github.com/acidprime/system-type
+
+Compiled Example here:
+
+https://github.com/acidprime/serial/downloads
