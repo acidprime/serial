@@ -24,3 +24,9 @@ https://github.com/acidprime/system-type
 Compiled Example here:
 
 https://github.com/acidprime/serial/downloads
+
+Known Issues:
+
+CFShow write to standard error so if you wanted to use this in a shell use
+
+declare -x SERIAL=$(./serial 2>&1)
