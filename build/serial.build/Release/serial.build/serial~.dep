@@ -1,0 +1,8 @@
+00000000000000000000000000000000 02cae4fa841937a4986e263bc3bf3dfd ffffffffffffffffffffffffffffffff 102 /Users/acid/Dropbox/code/serial/build/Release/serial.dSYM
+367dc918d4f0514fefb04a6566407406 55321fb48e51a8a5a0bc2d38a571aa5b ffffffffffffffffffffffffffffffff 37932 /Users/acid/Dropbox/code/serial/build/Release/serial
+c7bf5da402b6ac27a0f598e968d2115c f1b8883bf1970d5c21230ee29bd455da ffffffffffffffffffffffffffffffff 9260 /Users/acid/Dropbox/code/serial/build/serial.build/Release/serial.build/Objects-normal/ppc/serial
+4260f86dd6810903e266ce75033786f9 e62dae95beca2cbcca6ef36b96f2b27c ffffffffffffffffffffffffffffffff 9624 /Users/acid/Dropbox/code/serial/build/serial.build/Release/serial.build/Objects-normal/i386/serial
+0796425f4cee15318b0e546a60b0fd44 a3a108200374c0bacd60b51a6033f941 ffffffffffffffffffffffffffffffff 9728 /Users/acid/Dropbox/code/serial/build/serial.build/Release/serial.build/Objects-normal/x86_64/serial
+000000004f79d6f30000000000010693 c7bf5da40414987aa0f598e968b024a9 ffffffffffffffffffffffffffffffff 6276 /Users/acid/Dropbox/code/serial/build/serial.build/Release/serial.build/Objects-normal/ppc/main.o
+000000004f79d6f30000000000010693 4260f86dd0233d5ee266ce750355b30c ffffffffffffffffffffffffffffffff 6004 /Users/acid/Dropbox/code/serial/build/serial.build/Release/serial.build/Objects-normal/i386/main.o
+000000004f79d6f30000000000010693 0796425f4a4c216c8b0e546a60d2c8b1 ffffffffffffffffffffffffffffffff 6736 /Users/acid/Dropbox/code/serial/build/serial.build/Release/serial.build/Objects-normal/x86_64/main.o

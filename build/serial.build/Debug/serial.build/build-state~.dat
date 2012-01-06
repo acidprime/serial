@@ -1,0 +1,80 @@
+Tserial
+v7
+r0
+t347522548.455680
+cCheck dependencies
+cCompileC build/serial.build/Debug/serial.build/Objects-normal/x86_64/main.o /Users/acid/Dropbox/code/serial/main.c normal x86_64 c com.apple.compilers.gcc.4_2
+cLd /Users/acid/Dropbox/code/serial/build/Debug/serial normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004CAA740B00000000000000EE
+t1286239243
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CoreFoundation.h
+c000000004C239DAB0000000000000AF4
+t1277402539
+s2804
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/IOKit.framework/Headers/IOKitLib.h
+c000000004C23A0120000000000012048
+t1277403154
+s73800
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/IOKit.framework/IOKit
+c000000004CAA7405000000000003CE34
+t1286239237
+s249396
+
+N/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+c000000004E8E65FE000000000060E710
+t1317955070
+s6350608
+
+N/Users/acid/Dropbox/code/serial/build/Debug/serial
+t1325829748
+s9488
+
+N/Users/acid/Dropbox/code/serial/build/serial.build/Debug/serial.build/Objects-normal/x86_64/main.o
+t1325829746
+s5856
+
+N/Users/acid/Dropbox/code/serial/build/serial.build/Debug/serial.build/Objects-normal/x86_64/serial.LinkFileList
+c000000004F068E740000000000000063
+t1325829748
+s99
+
+N/Users/acid/Dropbox/code/serial/main.c
+c000000004F068E71000000000000027A
+t1325829745
+s634
+i<CoreFoundation/CoreFoundation.h>
+i<IOKit/IOKitLib.h>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies347522548#347522548#0(0"0(0#1#0"4565398848#0"0#
+
+CCompileC build/serial.build/Debug/serial.build/Objects-normal/x86_64/main.o /Users/acid/Dropbox/code/serial/main.c normal x86_64 c com.apple.compilers.gcc.4_2
+s347522548.172966
+e347522548.183712
+r1
+xCompileC
+xbuild/serial.build/Debug/serial.build/Objects-normal/x86_64/main.o
+x/Users/acid/Dropbox/code/serial/main.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@46"Compile /Users/acid/Dropbox/code/serial/main.c347522548#347522548#0(0"0(0#0#38"/Users/acid/Dropbox/code/serial/main.c4565397136#1175"    cd /Users/acid/Dropbox/code/serial    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/acid/Dropbox/code/serial/build/serial.build/Debug/serial.build/serial-generated-files.hmap -I/Users/acid/Dropbox/code/serial/build/serial.build/Debug/serial.build/serial-own-target-headers.hmap -I/Users/acid/Dropbox/code/serial/build/serial.build/Debug/serial.build/serial-all-target-headers.hmap -iquote /Users/acid/Dropbox/code/serial/build/serial.build/Debug/serial.build/serial-project-headers.hmap -F/Users/acid/Dropbox/code/serial/build/Debug -I/Users/acid/Dropbox/code/serial/build/Debug/include -I/Users/acid/Dropbox/code/serial/build/serial.build/Debug/serial.build/DerivedSources/x86_64 -I/Users/acid/Dropbox/code/serial/build/serial.build/Debug/serial.build/DerivedSources -c /Users/acid/Dropbox/code/serial/main.c -o /Users/acid/Dropbox/code/serial/build/serial.build/Debug/serial.build/Objects-normal/x86_64/main.o0#
+
+CLd /Users/acid/Dropbox/code/serial/build/Debug/serial normal x86_64
+s347522548.183824
+e347522548.455620
+r1
+xLd
+x/Users/acid/Dropbox/code/serial/build/Debug/serial
+xnormal
+xx86_64
+lSLF07#2@55"Link /Users/acid/Dropbox/code/serial/build/Debug/serial347522548#347522548#0(0"0(0#0#0"4565397136#502"    cd /Users/acid/Dropbox/code/serial    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/acid/Dropbox/code/serial/build/Debug -F/Users/acid/Dropbox/code/serial/build/Debug -filelist /Users/acid/Dropbox/code/serial/build/serial.build/Debug/serial.build/Objects-normal/x86_64/serial.LinkFileList -mmacosx-version-min=10.6 -framework CoreFoundation -framework IOKit -o /Users/acid/Dropbox/code/serial/build/Debug/serial0#
+
